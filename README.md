@@ -58,6 +58,7 @@ Minimum Block Rewards = (4 * 200 * 52560) / (4 * 52560 + nHeight + 58300 - 2000)
 
 ### License
 Copyright (C) 2018-2020 SwiftCash Developers <br />
+Copyright (C) 2020-2021 SwiftCash Developers <br />
 This software is provided as is and with no warranty under the MIT license.
 
 ### Donation Addresses
